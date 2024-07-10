@@ -1,2 +1,3 @@
 # Healthcare-Recommendation-system
-A healthcare recommendation system that predicts the patient's results as being "Normal", "Abnormal" or "Inconclusive" based on their demographics, medical condition, medication etc. The dataset used is from Kaggle. 
+A healthcare recommendation system that predicts the patient's results as being "Normal", "Abnormal" or "Inconclusive" based on their demographics, medical condition, medication etc. 
+This code preprocesses a healthcare dataset, trains and evaluates three machine learning models (Random Forest, SVC, and Naive Bayes) to predict test results based on various features. It selects the best model based on accuracy, tests the models on a subset of data, and makes predictions on a sample input. The code demonstrates the complete process of data preprocessing, model building, evaluation, and prediction using different algorithms.
